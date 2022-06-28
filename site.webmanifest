@@ -3,12 +3,12 @@
     "short_name": "Hair Group",
     "icons": [
         {
-            "src": "https://hairgroupmedical.files.wordpress.com/2022/06/android-chrome-192x192.png?v=1",
+            "src": "https://hairgroupmedical.files.wordpress.com/2022/06/android-chrome-192x192-2.png?v=1",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://hairgroupmedical.files.wordpress.com/2022/06/android-chrome-384x384.png?v=1",
+            "src": "https://hairgroupmedical.files.wordpress.com/2022/06/android-chrome-384x384-2.png?v=1",
             "sizes": "384x384",
             "type": "image/png"
         }
